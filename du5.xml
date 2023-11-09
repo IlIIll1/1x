@@ -1,0 +1,6 @@
+<Module>
+<ModulePrefs title="Duck Life Treasure Hunt"/>
+<Content type="html">
+<![CDATA[ <object xmlns="http://www.w3.org/1999/xhtml" data="https://cdn.jsdelivr.net/gh/jackilyna/web-flash@eeca0ee340c64e455095970004dfce5a9c6e791a/webfl/dlife.swf" height="100%" type="application/x-shockwave-flash" width="100%"><param name="movie" value="" /> </object><script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.1.0-nightly.2023.10.16/ruffle.js"></script>  ]]>
+</Content>
+</Module>
